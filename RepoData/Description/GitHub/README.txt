@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🏞️🔋️📊️🛠️📖️ The official documentation source repository for the Meadows Battery Diagnostics tool, a diagnostics tool for Linux, designed for the QMeadows operating system, but works on other Linux distributions as well.
